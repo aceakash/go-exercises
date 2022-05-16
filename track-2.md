@@ -41,3 +41,4 @@ that returns the following JSON
 
 Research what else comes through in the response (status code, headers) in such cases and document and implement that.
 
+Write tests!
